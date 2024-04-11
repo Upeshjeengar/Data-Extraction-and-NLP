@@ -6,4 +6,4 @@
   3.Tested on 100 Articles extracted from web using <a href="https://pypi.org/project/beautifulsoup4/" target="blank"> Beautiful Soup</a> available in <a href="https://github.com/Upeshjeengar/Data-Extraction-and-NLP/blob/main/Input.xlsx">input.xlsx</a> <br>
   4.Evaluation of articles in <a href="https://github.com/Upeshjeengar/Data-Extraction-and-NLP/blob/main/Output.xlsx">Output file </a> <br>
 
-<h4>For further details read: <a href"https://github.com/Upeshjeengar/Data-Extraction-and-NLP/blob/main/Objective.pdf">Objective</a></h4>
+<h4>For further details read: <a href="https://github.com/Upeshjeengar/Data-Extraction-and-NLP/blob/main/Objective.pdf">Objective</a></h4>
